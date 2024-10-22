@@ -1,6 +1,6 @@
 ## Installation
 
-1. `kpackagetool6 -t KWin/Script --upgrade package`
+1. `kpackagetool6 -t KWin/Script --install package`
 2. Enable the script in KWin Scripts KCM
 
 ## Usage
