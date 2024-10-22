@@ -1,0 +1,18 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "m.liu.jin@gmail.com",
+                "Name": "Jin Liu"
+            }
+        ],
+        "Category": "Appearance",
+        "Description": "An overlay clock in the screen corner.",
+        "Id": "overlayclock",
+        "Icon": "preferences-system-windows-script-test",
+        "License": "MIT",
+        "Name": "Overlay Clock"
+    },
+    "X-Plasma-API": "declarativescript"
+}
