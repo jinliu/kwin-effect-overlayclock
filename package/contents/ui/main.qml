@@ -1,9 +1,3 @@
-/*
-    SPDX-FileCopyrightText: 2024 Vlad Zahorodnii <vlad.zahorodnii@kde.org>
-
-    SPDX-License-Identifier: MIT
-*/
-
 import QtQuick
 import QtQuick.Window
 import QtQuick.Effects
