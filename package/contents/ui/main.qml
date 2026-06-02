@@ -13,9 +13,9 @@ Window {
     id: root
 
     readonly property bool _q_showWithoutActivating: true
-
+    
     color: "transparent"
-    flags: Qt.BypassWindowManagerHint | Qt.FramelessWindowHint
+    flags: Qt.BypassWindowManagerHint | Qt.FramelessWindowHint | Qt.WindowTransparentForInput
     width: 1000
     height: 500
     x: (Screen.virtualX + Screen.width) - width
